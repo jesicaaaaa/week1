@@ -1,0 +1,43 @@
+body{
+    margin: 0%;
+}
+
+
+.nav{
+    background-color: black;
+}
+
+.container{color: white; 
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: xx-large;
+}
+
+.sub-title{color: black;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size:medium
+}
+
+.container > *{
+    display: inline-block;
+
+}
+
+.list > div{
+    display:inline-block; color: white;
+}
+
+.logo-bar{
+
+}
+
+.banner{
+
+}
+
+.category{
+
+}
